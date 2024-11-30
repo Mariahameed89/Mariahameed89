@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently a student at PIEAS, Islamabad, exploring Python-based automation tools like Selenium.
-- 🤝 Thrilled to collaborate with @usmanyousaaf on innovative projects.
+- 🤝 Thrilled to collaborate on innovative projects.
 - 🥅 2024 Goals: Master advanced automation techniques and contribute to impactful projects.
 - ⚡ Fun fact: I enjoy streamlining workflows and creating efficient solutions.
 
